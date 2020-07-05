@@ -1,0 +1,9 @@
+git config --global user.name  "yousaf"
+git config --global user.email "ayyanarsal@gmail.com"
+git init
+git add [filename] -A
+git commit -m "first commit"
+git remote add origin https://github.com/yousaf123456789/learningGithub.git
+git push -u origin master
+git clone repo name
+git pull origin master			
